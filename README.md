@@ -4,7 +4,6 @@
 <br>
 <img src="logo.jpg" alt="HNNU Wiki Logo" width="150"/>
 <br/>
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Freakz3z/HNNU-Wiki?style=social)](https://github.com/Freakz3z/HNNU-Wiki)
 
 一个专为海南师范大学学生打造的Wiki

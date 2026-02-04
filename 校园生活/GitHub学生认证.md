@@ -12,8 +12,4 @@
 - 与 GitHub Campus Experts 一起成为技术领导者
 - 使用 Community Exchange 参与实际项目
 
-GitHub Student Developer Pack 开发人员包中包含：
-
-> 个人认为最有用的是免费的 JetBrains 专业桌面 IDE：IntelliJ IDEA、PyCharm 等。
-
-![GitHub Student Developer Pack 优惠](image/GitHub学生认证.png)
+GitHub Student Developer Pack 开发人员包中包含：JetBrains 专业桌面 IDEIntelliJ IDEA、PyCharm 等。
