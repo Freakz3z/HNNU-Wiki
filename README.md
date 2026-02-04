@@ -1,9 +1,9 @@
 <div align="center">
 
-**海南师范大学Wiki**
-<br>
+**HNNU-Wiki**
+
 <img src="logo.jpg" alt="HNNU Wiki Logo" width="150"/>
-<br/>
+
 [![GitHub stars](https://img.shields.io/github/stars/Freakz3z/HNNU-Wiki?style=social)](https://github.com/Freakz3z/HNNU-Wiki)
 
 一个专为海南师范大学学生打造的Wiki
