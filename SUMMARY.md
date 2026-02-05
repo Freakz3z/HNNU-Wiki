@@ -1,6 +1,7 @@
 # Summary
 
 * [README](/README.md)
+* [SUMMARY](/SUMMARY.md)
 
 ## 快速开始
 

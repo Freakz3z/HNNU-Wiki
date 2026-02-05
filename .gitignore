@@ -1,3 +1,5 @@
 # gitbook_cli目录
 _book/
+
 .claude/
+.DS_Store
