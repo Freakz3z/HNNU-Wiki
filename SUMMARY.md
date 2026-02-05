@@ -1,5 +1,3 @@
-# Summary
-
 * [README](/README.md)
 * [SUMMARY](/SUMMARY.md)
 
@@ -86,6 +84,6 @@
 
 * [联系方式](/关于/手册/联系方式.md)
 * [如何提交 PR](/关于/手册/如何提交PR.md)
-* [贡献指南](/CONTRIBUTING.md) - 详细的贡献流程、项目结构和编写规范
+* [贡献指南](/CONTRIBUTING.md)
 * [免责声明](/关于/手册/免责声明.md)
 * [一些闲话](/关于/一些闲话/Freak.md)
