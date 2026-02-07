@@ -2,7 +2,7 @@
 
 **HNNU-Wiki**
 
-<img src="logo.jpg" alt="HNNU Wiki Logo" width="150"/>
+<img src="image/logo.jpg" alt="HNNU Wiki Logo" width="150"/>
 
 一个专为海南师范大学学生打造的Wiki
 
